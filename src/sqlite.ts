@@ -1,4 +1,4 @@
-import { DB } from "https://deno.land/x/sqlite/mod.ts";
+import { DB } from 'https://deno.land/x/sqlite/mod.ts';
 
 // Open a database
 const db = new DB("test.db");

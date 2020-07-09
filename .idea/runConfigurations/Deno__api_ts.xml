@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deno: api.ts" type="DenoConfigurationType" nameIsGenerated="true" inputPath="$PROJECT_DIR$/src/api.ts" programParameters="run --allow-net">
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

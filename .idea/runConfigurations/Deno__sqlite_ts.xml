@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deno: sqlite.ts" type="DenoConfigurationType" nameIsGenerated="true" inputPath="$PROJECT_DIR$/src/sqlite.ts" programParameters="run --allow-read --allow-write">
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
